@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mariselvam2019/enlighting-hands.git/static/css/main.ae3df5e0.css",
+    "main.js": "/mariselvam2019/enlighting-hands.git/static/js/main.407337f4.js",
+    "static/js/453.b050e430.chunk.js": "/mariselvam2019/enlighting-hands.git/static/js/453.b050e430.chunk.js",
+    "index.html": "/mariselvam2019/enlighting-hands.git/index.html",
+    "main.ae3df5e0.css.map": "/mariselvam2019/enlighting-hands.git/static/css/main.ae3df5e0.css.map",
+    "main.407337f4.js.map": "/mariselvam2019/enlighting-hands.git/static/js/main.407337f4.js.map",
+    "453.b050e430.chunk.js.map": "/mariselvam2019/enlighting-hands.git/static/js/453.b050e430.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae3df5e0.css",
+    "static/js/main.407337f4.js"
+  ]
+}
